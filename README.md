@@ -1,11 +1,11 @@
 
 # 소개
 
-Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 업로드한 레포지스토리. 
+Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 업로드한 레포지스토리.  
 01~07장까지의 모든 코드가 올려질 계획입니다. 
 
-원서 : Saito Goki씨의 ゼロから作る _Deep Learning
-옮김 : 개앞맵시씨의 밑바닥부터 시작하는 딥러닝
+원서 : Saito Goki씨의 ゼロから作る _Deep Learning  
+옮김 : 개앞맵시씨의 밑바닥부터 시작하는 딥러닝  
 
 ![screensh](https://i.imgur.com/U4j2JYT.jpg)
 
@@ -16,15 +16,15 @@ Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 
 
  + Chapter 02 - 퍼셉트론
 
-  + Chapter 03 - 신경망
+ + Chapter 03 - 신경망
 
-  + Chapter 04 - 신경망 학습
+ + Chapter 04 - 신경망 학습
 
-  + Chapter 05 - 오차역전파법
+ + Chapter 05 - 오차역전파법
 
-  + Chapter 06 - 학습 관련 기술
+ + Chapter 06 - 학습 관련 기술
 
-  + Chapter 07 - 합성곱 신경망
+ + Chapter 07 - 합성곱 신경망
 
 
 
