@@ -37,4 +37,6 @@ Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 
 -	Package
 	-	matplotlib (version 3.2.1)
 	-	numpy (version 1.18.2)
-	-	...
+	-	scikit-learn (version 0.22.2.post1)
+    -   sklearn (version 0.0)
+    -   ...
