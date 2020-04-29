@@ -39,4 +39,7 @@ Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 
 	-	numpy (version 1.18.2)
 	-	scikit-learn (version 0.22.2.post1)
     -   sklearn (version 0.0)
-    -   ...
+    -   image (1.5.31)
+	-	mnist (0.2.2)
+	-	Pillow (7.1.2)
+	-	...
