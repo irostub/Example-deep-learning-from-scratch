@@ -1,8 +1,8 @@
 
 # 소개
 
-Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 업로드한 레포지스토리.  
-01~07장까지의 모든 코드가 올려질 계획입니다. 
+Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 업로드한 레포지스토리  
+01~07장까지의 모든 코드가 올려질 계획입니다
 
 원서 : Saito Goki씨의 ゼロから作る _Deep Learning  
 옮김 : 개앞맵시씨의 밑바닥부터 시작하는 딥러닝  
@@ -43,3 +43,7 @@ Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 
 	-	mnist (0.2.2)
 	-	Pillow (7.1.2)
 	-	...
+
+## 번외 프로젝트
+- 'Other code - Linear Reagression Example(선형회귀 예제)'
+- 'Other code - Logistic Regression Example(로지스틱 회귀 예제)
