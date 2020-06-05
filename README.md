@@ -45,5 +45,5 @@ Deep Learning from Scratch 서적의 실습코드를 학습하고 그 코드를 
 	-	...
 
 ## 번외 프로젝트
-- 'Other code - Linear Reagression Example(선형회귀 예제)'
-- 'Other code - Logistic Regression Example(로지스틱 회귀 예제)
+- Other code - Linear Reagression Example(선형회귀 예제)
+- Other code - Logistic Regression Example(로지스틱 회귀 예제)
